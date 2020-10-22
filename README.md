@@ -13,3 +13,7 @@ Recetas:
 # Primeros platos
 
 - Salmorejo
+
+# Segundos platos
+
+- Lasaña
